@@ -1,2 +1,2 @@
 <?php
-echo 'Isso é um teste 2';
+echo 'Isso é um teste 3';
